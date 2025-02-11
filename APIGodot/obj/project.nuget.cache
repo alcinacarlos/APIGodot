@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbgxWMfIcuI=",
+  "success": true,
+  "projectFilePath": "/home/seta/RiderProjects/APIGodot/APIGodot/APIGodot.csproj",
+  "expectedPackageFiles": [
+    "/home/seta/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/seta/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/seta/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
