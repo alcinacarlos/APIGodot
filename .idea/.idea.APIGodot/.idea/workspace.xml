@@ -8,7 +8,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0add459d-3130-42de-8cc9-8c6f79808741" name="Changes" comment="" />
+    <list default="true" id="0add459d-3130-42de-8cc9-8c6f79808741" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/APIGodot/Models/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGodot/Models/PlayerContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.APIGodot/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.APIGodot/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.APIGodot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.APIGodot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/APIGodot.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/APIGodot.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/APIGodot.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/Microsoft.OpenApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/bin/Debug/net9.0/Microsoft.OpenApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/APIGodot.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/APIGodot.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/APIGodot.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/APIGodot.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/APIGodot.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/APIGodot.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/APIGodot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/ref/APIGodot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/ref/APIGodot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/refint/APIGodot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/Debug/net9.0/refint/APIGodot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGodot/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/APIGodot/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,28 +51,50 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alcinacarlos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alcinacarlos/APIGodot.git&quot;,
+    &quot;accountId&quot;: &quot;7c0f7edb-bf56-4dcc-bcb1-72720e82acf0&quot;
+  }
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2suNwoG2Ra9ZWYqrz6wpSiZIqRN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.APIGodot: http.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.APIGodot: http.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.APIGodot: http">
     <configuration name="APIGodot: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/APIGodot/APIGodot.csproj" />
@@ -79,13 +135,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739301741154</updated>
-      <workItem from="1739301742538" duration="2036000" />
+      <workItem from="1739301742538" duration="2756000" />
+      <workItem from="1739901206121" duration="5107000" />
+      <workItem from="1739906632996" duration="1919000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIGodot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45a346cfb2b05633e663057336fb61c05fa430a")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIGodot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIGodot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
