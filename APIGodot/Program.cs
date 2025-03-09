@@ -1,12 +1,13 @@
 using APIGodot.Models;
-using Microsoft.EntityFrameworkCore;
-
+using DotNetEnv;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Cargar variables de entorno desde el archivo .env
+Env.Load();
+
 builder.Services.AddControllers();
-builder.Services.AddDbContext<PlayerContext>(opt =>
-    opt.UseInMemoryDatabase("Players"));
+builder.Services.AddSingleton<MongoPlayerContext>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
